@@ -20,6 +20,6 @@
 
 ### Additional Instructions
 
-If you plan to run workshops code in your **local machine**, make sure you have a working Jupyter environment with the latest version of Python. If you don’t have one, you can install [Anaconda](https://www.anaconda.com/products/individual), but please do so before the session. The code we will using is located [here](https://github.com/smasis001/dphi-2021/blob/main/german-credit_dphi.ipynb). Although additional libraries can be installed quickly and usually do so without any issues, it is recommended that you install them in advance (just in case the local environment presents some problems).
+If you plan to run workshops code in your **local machine**, make sure you have a working Jupyter environment with the latest version of Python. If you don’t have one, you can install [Anaconda](https://www.anaconda.com/products/individual), but please do so before the session. The code we will using is located [here](https://github.com/smasis001/dphi-2021/blob/main/adult-income_dphi.ipynb). Although additional libraries can be installed quickly and usually do so without any issues, it is recommended that you install them in advance (just in case the local environment presents some problems).
 
 If you are planning to run the code in the **cloud**, the Colab notebook is located [here](https://colab.research.google.com/drive/1s1DGispJMMgGGScSY6KmMs6_zDBWAf1P?usp=sharing). It will come with instructions on how to install the additional libraries in Colab. Please install these at the beginning of the session.
