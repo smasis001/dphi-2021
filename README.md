@@ -13,7 +13,8 @@
 6. *Matplotlib >= 3.1.3		( 20M)
 7. *Seaborn >= 0.10.0		( 1.8M)
 8. XAI >= 0.0.5		(  3.2M)
-9. aif360 == 0.3.0     (  1.2M)
+9. aif360 == 0.4.0     (  1.2M)
+10. fairlearn == 0.7.0
 
  (please note that Google Colab comes with all those marked with * pre-installed and code provided will come with instructions on how to install everything else)
 
